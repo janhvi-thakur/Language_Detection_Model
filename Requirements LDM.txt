@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+Pillow
+langdetect
+langid
+numpy
+opencv-python
+scikit-image
