@@ -1,0 +1,10 @@
+streamlit
+tempfile
+model
+langdetect
+tesseract
+langid
+collections 
+counter
+PIL
+OCR
