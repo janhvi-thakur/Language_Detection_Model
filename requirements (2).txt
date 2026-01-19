@@ -1,10 +1,8 @@
 streamlit
-tempfile
-model
+pytesseract
+Pillow
 langdetect
-tesseract
 langid
-collections 
-counter
-PIL
-OCR
+numpy
+opencv-python
+scikit-image
